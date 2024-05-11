@@ -1,0 +1,140 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-05-07 19:56+0500\n"
+"PO-Revision-Date: 2024-05-07 19:57+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: ustozshogirtbot.py:35
+msgid "Tilni tanlang"
+msgstr ""
+
+#: ustozshogirtbot.py:45
+msgid "Sherik kerak"
+msgstr ""
+
+#: ustozshogirtbot.py:45
+msgid "Ish joy kerak)"
+msgstr ""
+
+#: ustozshogirtbot.py:46
+msgid "Hodim kerak"
+msgstr ""
+
+#: ustozshogirtbot.py:46
+msgid "Ustoz kerak"
+msgstr ""
+
+#: ustozshogirtbot.py:47
+msgid "Shogird kerak"
+msgstr ""
+
+#: ustozshogirtbot.py:51
+msgid ""
+"Assalom alaykum {name} \n"
+"UstozShogird kanalining rasmiy botiga xush kelibsiz! \n"
+"\n"
+"/help yordam buyrugi orqali nimalarga qodir ekanligimni bilib oling"
+msgstr ""
+
+#: ustozshogirtbot.py:91
+msgid ""
+"Sherik topish uchun ariza berish\n"
+"\n"
+"Hozir sizga birnecha savollar beriladi.\n"
+"Har biriga javob bering.\n"
+"Oxirida agar hammasi to`g`ri bo`lsa, HA tugmasini bosing va arizangiz "
+"Adminga yuboriladi."
+msgstr ""
+
+#: ustozshogirtbot.py:92
+msgid "Ism, familiyangizni kiriting?"
+msgstr ""
+
+#: ustozshogirtbot.py:219
+msgid ""
+"📚 Texnologiya:\n"
+"\n"
+"Talab qilinadigan texnologiyalarni kiriting?\n"
+"Texnologiya nomlarini vergul bilan ajrating. Masalan,\n"
+"\n"
+"Java, C++, C#"
+msgstr ""
+
+#: ustozshogirtbot.py:227
+msgid ""
+"📞 Aloqa:\n"
+"\n"
+"Bog`lanish uchun raqamingizni kiriting?\n"
+"Masalan, +998 90 123 45 67"
+msgstr ""
+
+#: ustozshogirtbot.py:235
+msgid ""
+"🌐 Hudud: \n"
+"\n"
+"Qaysi hududdansiz?\n"
+"Viloyat nomi, Toshkent shahar yoki Respublikani kiriting."
+msgstr ""
+
+#: ustozshogirtbot.py:243
+msgid ""
+"💰 Narxi:\n"
+"\n"
+"Tolov qilasizmi yoki Tekinmi?\n"
+"Kerak bo`lsa, Summani kiriting?"
+msgstr ""
+
+#: ustozshogirtbot.py:251
+msgid ""
+"👨🏻‍💻 Kasbi: \n"
+"\n"
+"Ishlaysizmi yoki o`qiysizmi?\n"
+"Masalan, Talaba"
+msgstr ""
+
+#: ustozshogirtbot.py:258
+msgid ""
+"🕰 Murojaat qilish vaqti: \n"
+"\n"
+"Qaysi vaqtda murojaat qilish mumkin?\n"
+"Masalan, 9:00 - 18:00"
+msgstr ""
+
+#: ustozshogirtbot.py:266
+msgid ""
+"🔎 Maqsad: \n"
+"\n"
+"Maqsadingizni qisqacha yozib bering."
+msgstr ""
+
+#: ustozshogirtbot.py:273
+msgid ""
+"Sherik kerak:\n"
+"\n"
+"🏅 Sherik: {data_ism_familya} \n"
+"📚 Texnologiya: {data_texnalogiya} \n"
+"🇺🇿 Telegram: @{username}\n"
+"📞 Aloqa: {data_aloqa}\n"
+"🌐 Hudud: {data_hudud} \n"
+"💰 Narxi: {data_narxi} \n"
+"👨🏻‍💻 Kasbi: {data_kasbi} \n"
+"🕰 Murojaat qilish vaqti: {data_murojat_vaqti} \n"
+"🔎 Maqsad: {data_maqsad} \n"
+"    \n"
+"#sherik"
+msgstr ""
+

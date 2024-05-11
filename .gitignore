@@ -1,0 +1,6 @@
+.venv
+.idea
+.dockerignore
+Dockerfile
+Makefile
+docker_file.py
